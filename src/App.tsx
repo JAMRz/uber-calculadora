@@ -1,4 +1,5 @@
 import { useState, useEffect } from "react";
+import "./global.css";
 
 type Campos = {
   [key: string]: string;
